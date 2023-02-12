@@ -10,8 +10,8 @@ from datetime import datetime
 
 #----------------------------
 bottoken = BotConfig.BOT_TOKEN
-apiid = 8
-apihash = "7245de8e747a0d6fbe11f7cc14fcc0bb"
+apiid = 5574912
+apihash = "37f90ccb92ff182cd707b3516d20ac3b"
 plugins = dict(root="addons")
 app = Client("SessionFile", api_id = apiid, api_hash = apihash, plugins = plugins, bot_token = bottoken)
 #----------------------------
