@@ -1,8 +1,8 @@
 BOT_TOKEN = "5747136730:AAF0OvBU0F9wlG2E8qDVqnl5opLsbziWTmY"
 BOT_UNAME = "@AKSubscriptionBot"
-ALLOWED_GROUPS = [-1001663024579] # Bot will only work in allowed groups
+ALLOWED_GROUPS = [-1001749128708] # Bot will only work in allowed groups
 OWNER_ID = [1105331049] # User IDs added here will be able to access all owner commands
-BACKUP_CHAT = ["-1001173765202 -1001749128708 -1001604903105"] # For uploading daily database backups
+BACKUP_CHAT = [-1001604903105] # For uploading daily database backups
 
 PREFIX = "/" # Command prefix, leave it as is
 
